@@ -1,0 +1,16 @@
+{
+    "projects": [
+    {
+        "id": 1,
+        "title": "Design Vue projects",
+        "details": "This the desiging process",
+        "complete": false
+    },
+    {
+        "id": 2,
+        "title": "Draw the database",
+        "details": "Drawing the database diagram using drawsql",
+        "complete": true
+    }
+]
+}
