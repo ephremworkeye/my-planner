@@ -1,16 +1,28 @@
 {
-    "projects": [
+  "projects": [
     {
-        "id": 1,
-        "title": "Design Vue projects",
-        "details": "This the desiging process",
-        "complete": false
+      "id": 1,
+      "title": "Design Vue projects",
+      "details": "This the desiging process",
+      "complete": true
     },
     {
-        "id": 2,
-        "title": "Draw the database",
-        "details": "Drawing the database diagram using drawsql",
-        "complete": true
+      "id": 2,
+      "title": "Draw the database",
+      "details": "Drawing the database diagram using drawsql",
+      "complete": false
+    },
+    {
+      "title": "Implement initial setup",
+      "details": "First step to implement the project",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "test test",
+      "details": "test text",
+      "complete": false,
+      "id": 6
     }
-]
+  ]
 }
