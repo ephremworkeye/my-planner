@@ -10,19 +10,13 @@
       "id": 2,
       "title": "Draw the database",
       "details": "Drawing the database diagram using drawsql",
-      "complete": false
+      "complete": true
     },
     {
-      "title": "Implement initial setup",
-      "details": "First step to implement the project",
+      "title": "Implement initial setup 2",
+      "details": "First step to implement the project 2",
       "complete": false,
       "id": 3
-    },
-    {
-      "title": "test test",
-      "details": "test text",
-      "complete": false,
-      "id": 6
     }
   ]
 }
